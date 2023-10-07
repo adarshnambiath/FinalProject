@@ -1,7 +1,6 @@
 import React from 'react'
 import i3 from '../../../public/sja.jpg'
 import Image from 'next/image'
-import gsap from 'gsap'
 
 export default function page() {
   return (
