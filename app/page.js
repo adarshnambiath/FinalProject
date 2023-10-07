@@ -13,7 +13,6 @@ export default function Home() {
         <h1 className="text-white text-[75px]">Biographical Blog</h1>
         <Link href="/vangogh" className="text-white text-[30px] hover:text-white">Vincent Van Gogh</Link>
         <Link href="/oppenheimer" className="text-white text-[30px] hover:text-white">J Robert Oppenheimer</Link>
-        <Link href="/stevejobs" className="text-white text-[30px] hover:text-white">Steve Jobs</Link>
         <Link href="/messi" className="text-white text-[30px] hover:text-white">Lionel Messi</Link>
         </div>
         </div>
